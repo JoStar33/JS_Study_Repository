@@ -8,4 +8,3 @@ mapTest.delete(1); // {'1' => 'hello'}
 //clear, size 는 Set과 같다.
 
 console.log(mapTest);
-//let mapTest = new Map(['name', 'kyle'], ['city', 'seoul']); //{"name" => "kyle", "city" => "seoul"}
